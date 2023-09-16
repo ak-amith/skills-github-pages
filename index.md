@@ -1,4 +1,4 @@
 ---
-Pilot: Welcome to my blog!
+Howdy : This is my first blog.
 ---
 
