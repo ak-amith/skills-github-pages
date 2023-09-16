@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Pilot: Welcome to my blog!
 ---
 
